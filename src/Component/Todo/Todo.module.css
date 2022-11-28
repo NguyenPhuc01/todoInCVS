@@ -1,0 +1,29 @@
+li {
+  margin: 0px;
+  padding: 10px;
+  margin: 10px 0px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  background-color: aquamarine;
+}
+.btnDelete {
+  margin: 0px 0px 0px 20px;
+}
+
+.btnDelete:hover {
+  color: red;
+}
+.btnChange:hover {
+  color: red;
+}
+.todoItems {
+  margin: 10px 0px;
+}
+.todoIcon {
+  display: flex;
+  align-items: center;
+}
+.btnChange {
+  margin-left: 10px;
+}
